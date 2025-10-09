@@ -1,5 +1,5 @@
 # Business Insights 360 – Power BI Project
-Overview
+**Overview**
 
 - Business Insights 360 is a comprehensive Power BI analytics solution designed to deliver end-to-end visibility into an organization’s financial, sales, and marketing performance.
 - It integrates multiple data sources to help decision-makers track KPIs, benchmark performance, and identify growth opportunities across regions, products, and customers.
@@ -8,7 +8,7 @@ Overview
 
 Purpose : To analyze overall financial performance by tracking revenue, cost, and profitability metrics.
 
-Key Insights
+**Key Insights**
 
 - __Net Sales $__: Indicates the total revenue after discounts and deductions.
 - __Gross Margin %__: Shows profitability after deducting the cost of goods sold (COGS).
@@ -22,7 +22,7 @@ Key Insights
 
 Purpose: To evaluate sales performance across products, customers, and markets, and understand unit economics.
 
-Key Insights
+**Key Insights**
 
 - __Product Performance__: Compares Net Sales (NS) and Gross Margin (GM) across product categories (Accessories, Desktop, Notebook, etc.).
 - __Customer Performance__: Displays top customers by revenue and profit margin (e.g., Amazon, Argos, BestBuy).
@@ -34,7 +34,7 @@ Key Insights
 
 Purpose: To understand performance by product segment, region, and category, helping identify profitable areas and improvement opportunities.
 
-Key Insights
+**Key Insights**
 
 - __Segment Performance__: Compares sales, gross margin, and net profit across categories like Notebook, Accessories, Peripherals, etc.
 - __Customer & Regional Breakdown__: Tracks performance across EU, LATAM, NAM, and APAC regions.
@@ -43,7 +43,7 @@ Key Insights
 - __Dynamic Filters__: Enable performance comparisons by Year, Quarter, Benchmark, Market, Customer, and Segment.
 - __Visual Analytics__: Combines bubble charts, donut charts, and bar visuals to simplify performance interpretation.
 
-Key Features
+**Key Features**
 
 - Dynamic filtering across multiple views (Finance, Sales, Marketing)
 - Benchmarking against previous years or targets
@@ -51,7 +51,7 @@ Key Features
 - Region-wise and segment-wise performance comparison
 - KPI summary cards with color-coded alerts (↑ improvement, ↓ decline)
 
-Use Case
+**Use Case**
 
 - Ideal for business analysts, finance teams, and leadership to:
 - Monitor company-wide KPIs
@@ -59,13 +59,13 @@ Use Case
 - Optimize product mix, pricing, and marketing strategies
 - Identify top-performing regions, customers, and segments
 
-Tools & Technology
+**Tools & Technology**
 
 - Data Visualization: Power BI Desktop
 - Data Source: Excel / SQL / ERP exports (as applicable)
 - Metrics Tracked: Net Sales, Gross Margin, Net Profit, COGS, Operational Expenses
 - Filters: Year, Quarter, Market, Segment, Customer, Benchmark
 
-Outcome
+**Outcome**
 
 - Business Insights 360 enables data-driven decision-making by providing a single source of truth for financial, sales, and marketing metrics — helping organizations enhance profitability, optimize strategy, and improve overall business health.
