@@ -11,12 +11,12 @@ Purpose : To analyze overall financial performance by tracking revenue, cost, an
 Key Insights
 
 - __Net Sales $__: Indicates the total revenue after discounts and deductions.
-- Gross Margin %: Shows profitability after deducting the cost of goods sold (COGS).
-- Net Profit %: Reflects final profitability after accounting for all operational expenses.
-- Benchark Comparison (BM): Highlights how actuals perform against a selected benchmark (e.g., LY - Last Year).
-- Profit & Loss Statement: Breaks down key financial components (sales, deductions, costs, and margins).
-- Trend Analysis: Visualizes net sales performance over time for easier pattern recognition.
-- Top/Bottom Performers: Identifies best and worst performing products or customers by net sales.
+- __Gross Margin %__: Shows profitability after deducting the cost of goods sold (COGS).
+- __Net Profit %__: Reflects final profitability after accounting for all operational expenses.
+- __Benchark Comparison (BM)__: Highlights how actuals perform against a selected benchmark (e.g., LY - Last Year).
+- __Profit & Loss Statement__: Breaks down key financial components (sales, deductions, costs, and margins).
+- __Trend Analysis__: Visualizes net sales performance over time for easier pattern recognition.
+- __Top/Bottom Performers__: Identifies best and worst performing products or customers by net sales.
 
 ## 2. Sales View
 
@@ -24,11 +24,11 @@ Purpose: To evaluate sales performance across products, customers, and markets, 
 
 Key Insights
 
-- Product Performance: Compares Net Sales (NS) and Gross Margin (GM) across product categories (Accessories, Desktop, Notebook, etc.).
-- Customer Performance: Displays top customers by revenue and profit margin (e.g., Amazon, Argos, BestBuy).
-- Unit Economics: Shows how total COGS and gross margin contribute to profitability.
-- Performance Matrix: Plots GM% vs. Net Sales to visualize customer profitability and market positioning.
-- Filters: Allow selection by Year, Quarter, Benchmark (vs LY), Market, Customer, and Segment for flexible analysis.
+- __Product Performance__: Compares Net Sales (NS) and Gross Margin (GM) across product categories (Accessories, Desktop, Notebook, etc.).
+- __Customer Performance__: Displays top customers by revenue and profit margin (e.g., Amazon, Argos, BestBuy).
+- __Unit Economics__: Shows how total COGS and gross margin contribute to profitability.
+- __Performance Matrix__: Plots GM% vs. Net Sales to visualize customer profitability and market positioning.
+- __Filters__: Allow selection by Year, Quarter, Benchmark (vs LY), Market, Customer, and Segment for flexible analysis.
 
 ## 3. Marketing View
 
@@ -36,12 +36,12 @@ Purpose: To understand performance by product segment, region, and category, hel
 
 Key Insights
 
-- Segment Performance: Compares sales, gross margin, and net profit across categories like Notebook, Accessories, Peripherals, etc.
-- Customer & Regional Breakdown: Tracks performance across EU, LATAM, NAM, and APAC regions.
-- Product Trends: Highlights product categories with increased or decreased performance.
-- Unit Economics: Breaks down COGS vs. Gross Margin to visualize cost efficiency.
-- Dynamic Filters: Enable performance comparisons by Year, Quarter, Benchmark, Market, Customer, and Segment.
-- Visual Analytics: Combines bubble charts, donut charts, and bar visuals to simplify performance interpretation.
+- __Segment Performance__: Compares sales, gross margin, and net profit across categories like Notebook, Accessories, Peripherals, etc.
+- __Customer & Regional Breakdown__: Tracks performance across EU, LATAM, NAM, and APAC regions.
+- __Product Trends__: Highlights product categories with increased or decreased performance.
+- __Unit Economics__: Breaks down COGS vs. Gross Margin to visualize cost efficiency.
+- __Dynamic Filters__: Enable performance comparisons by Year, Quarter, Benchmark, Market, Customer, and Segment.
+- __Visual Analytics__: Combines bubble charts, donut charts, and bar visuals to simplify performance interpretation.
 
 Key Features
 
