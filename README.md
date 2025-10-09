@@ -10,7 +10,7 @@ Purpose : To analyze overall financial performance by tracking revenue, cost, an
 
 Key Insights
 
-- _Net Sales $_: Indicates the total revenue after discounts and deductions.
+- __Net Sales $__: Indicates the total revenue after discounts and deductions.
 - Gross Margin %: Shows profitability after deducting the cost of goods sold (COGS).
 - Net Profit %: Reflects final profitability after accounting for all operational expenses.
 - Benchark Comparison (BM): Highlights how actuals perform against a selected benchmark (e.g., LY - Last Year).
