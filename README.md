@@ -62,7 +62,7 @@ Purpose: To understand performance by product segment, region, and category, hel
 **Tools & Technology**
 
 - Data Visualization: Power BI Desktop
-- Data Source: Excel / SQL / ERP exports (as applicable)
+- Data Source: Excel / MySQL 
 - Metrics Tracked: Net Sales, Gross Margin, Net Profit, COGS, Operational Expenses
 - Filters: Year, Quarter, Market, Segment, Customer, Benchmark
 
