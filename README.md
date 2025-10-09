@@ -3,9 +3,9 @@ Overview
 
 Business Insights 360 is a comprehensive Power BI analytics solution designed to deliver end-to-end visibility into an organization’s financial, sales, and marketing performance. It integrates multiple data sources to help decision-makers track KPIs, benchmark performance, and identify growth opportunities across regions, products, and customers.
 
-##1. Finance View
+## 1. Finance View
 
-Purpose: To analyze overall financial performance by tracking revenue, cost, and profitability metrics.
+# Purpose: To analyze overall financial performance by tracking revenue, cost, and profitability metrics.
 
 Key Insights
 
