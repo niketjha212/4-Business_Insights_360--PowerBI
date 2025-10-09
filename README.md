@@ -1,12 +1,12 @@
 ## Business Insights 360 – Power BI Project
-🔍 Overview
+Overview
 
 Business Insights 360 is a comprehensive Power BI analytics solution designed to deliver end-to-end visibility into an organization’s financial, sales, and marketing performance. It integrates multiple data sources to help decision-makers track KPIs, benchmark performance, and identify growth opportunities across regions, products, and customers.
 
-📊 1. Finance View
-🎯 Purpose: To analyze overall financial performance by tracking revenue, cost, and profitability metrics.
+1. Finance View
+Purpose: To analyze overall financial performance by tracking revenue, cost, and profitability metrics.
 
-💡 Key Insights
+Key Insights
 
 Net Sales $: Indicates the total revenue after discounts and deductions.
 Gross Margin %: Shows profitability after deducting the cost of goods sold (COGS).
