@@ -5,19 +5,20 @@
 
 ## 🎯 What Is This Project About?
 
-This project delivers a full-scale **Sales & Finance Analytics solution** designed for **AtliQ Hardware**, a global manufacturer and distributor of computer hardware, peripherals, and accessories.  
+This project is an end-to-end **Sales & Finance Analytics solution** built to analyze the business performance of **AtliQ Hardware**, a global company that sells and manufactures computers, accessories, peripherals, and networking products.  
 
-Using **Power BI**, the goal is to transform raw sales and financial datasets into **actionable insights** that support leadership in making faster, smarter, and data-driven decisions.
+Using **Power BI**, the project transforms raw sales and financial datasets into clear, actionable insights that help AtliQ Hardware understand its product performance, market opportunities, profitability trends, and customer value.
 
 The analysis focuses on:
 
-- Understanding year-over-year (YOY) sales performance  
-- Evaluating financial health through Profit & Loss statements  
-- Identifying top- and bottom-performing products  
-- Analyzing market performance and customer contribution  
-- Benchmarking actual performance against targets and prior years  
+- Evaluating AtliQ Hardware’s **year-over-year (YOY) sales growth**  
+- Understanding **profitability through detailed P&L statements**  
+- Identifying **top- and bottom-performing products and markets**  
+- Comparing divisions, customers, and regions to uncover growth drivers  
+- Benchmarking actual performance against **targets and last year’s performance**  
 
-This project demonstrates how **ETL, data modeling, DAX, and BI visualization** come together to build a powerful business intelligence ecosystem.
+Overall, this project demonstrates how data modeling, ETL, DAX, and interactive dashboards can help **AtliQ Hardware make data-driven strategic decisions** across Sales, Finance, and Product teams.
+
 
 ---
 
