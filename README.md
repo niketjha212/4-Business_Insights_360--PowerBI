@@ -19,7 +19,43 @@ At its core, **Business Insights 360 transforms raw financial and operational da
 
 ---
 
-## 📁 Project Objectives
+## 🧭 Why This Project Matters
+
+In modern organizations, financial, sales, and marketing data often reside in silos, limiting the ability to view overall business performance. Business Insights 360 solves this challenge by integrating all key business metrics into a single, interactive Power BI ecosystem.
+
+This project matters because it enables organizations to:
+
+- **Gain a unified, 360-degree view** of their financial, sales, and marketing KPIs  
+- **Benchmark performance** against previous years, targets, or selected benchmarks  
+- **Identify top-performing products, customers, and regions** to focus investment and strategy  
+- **Spot declining areas early**, helping teams take corrective action before losses grow  
+- **Understand unit economics** such as Gross Margin %, COGS, and Net Profit %  
+- **Improve decision-making speed** with interactive dashboards and dynamic filters  
+- **Empower leadership teams** with real-time insight rather than static reports  
+
+Ultimately, Business Insights 360 supports **data-driven strategy, improved profitability, and operational excellence** by providing actionable intelligence across the entire business.
+
+---
+
+## 📁 Dataset Overview
+
+| Feature | Value |
+|---------|--------|
+| **Data Source** | Codebasics – Business Insights 360 Challenge Dataset |
+| **Number of Tables** | 7 relational tables (Finance, Sales, Marketing, Customer, Product, Market, Date) |
+| **Total Records** | 20,000+ combined rows across all datasets |
+| **Business Domains Covered** | Finance, Sales, Marketing, Customer Segments, Product Categories |
+| **Key Metrics Available** | Net Sales, Gross Margin, COGS, Net Profit, Expenses, Units Sold |
+| **Geographical Coverage** | NAM, LATAM, EU, APAC regions |
+| **Time Features** | Year, Quarter, Month, Benchmark (LY vs CY) |
+| **Data Quality** | Cleaned, transformed & standardized using Power Query |
+
+The dataset is sourced from **Codebasics**, designed as part of the *Business Insights 360* case study.  
+It includes cross-functional business data from finance, sales, and marketing teams—allowing complete performance analysis using Power BI’s modeling, DAX, and visualization capabilities.
+
+---
+
+## 📁 What This Project Includes
 
 ## 1. Finance View
 
@@ -65,17 +101,6 @@ Purpose: To understand performance by product segment, region, and category, hel
 - KPI summary cards with color-coded alerts (↑ improvement, ↓ decline)
 
 ---
-
-## Use Cases
-- Ideal for business analysts, finance teams, and leadership to:
-- Monitor company-wide KPIs
-- Compare performance vs. targets or historical data
-- Optimize product mix, pricing, and marketing strategies
-- Identify top-performing regions, customers, and segments
-
----
-
-## Tools & Technologies Used
 
 ## 🛠 Tools & Technologies Used
 
