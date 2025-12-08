@@ -1,120 +1,170 @@
 # Business Insights 360 – Power BI Project
+### A Power BI–Driven Business Intelligence Solution for Strategic Decision-Making
 
 ---
 
 ## 🎯 What Is This Project About?
 
-Business Insights 360 is an end-to-end Power BI analytics solution designed to give organizations a **complete, unified view of their financial, sales, and marketing performance**.  
-The project integrates multiple datasets (Finance, Sales, Marketing, Customer, Product, Regional data) into a single analytical model that enables real-time KPI monitoring, benchmarking, and strategic decision-making.
+This project delivers a full-scale **Sales & Finance Analytics solution** designed for **AtliQ Hardware**, a global manufacturer and distributor of computer hardware, peripherals, and accessories.  
 
-This project aims to:
+Using **Power BI**, the goal is to transform raw sales and financial datasets into **actionable insights** that support leadership in making faster, smarter, and data-driven decisions.
 
-- Provide a **360-degree business overview** across revenue, cost, profitability, and market performance  
-- Break down insights across dedicated views — **Finance, Sales, and Marketing**  
-- Enable leadership teams to track trends, compare performance vs. benchmarks (like Last Year), and identify opportunities for growth  
-- Support data-driven decisions by highlighting top-performing regions, customers, and products  
-- Offer interactive, filter-driven dashboards for flexible, scenario-based analysis  
+The analysis focuses on:
 
-At its core, **Business Insights 360 transforms raw financial and operational data into clear, actionable intelligence** — empowering decision-makers to improve profitability, optimize strategy, and drive sustainable business growth.
+- Understanding year-over-year (YOY) sales performance  
+- Evaluating financial health through Profit & Loss statements  
+- Identifying top- and bottom-performing products  
+- Analyzing market performance and customer contribution  
+- Benchmarking actual performance against targets and prior years  
+
+This project demonstrates how **ETL, data modeling, DAX, and BI visualization** come together to build a powerful business intelligence ecosystem.
+
+---
+
+## 📌 Project Objectives
+
+1. Identify **Top 10 products** with the greatest sales increase from 2020 to 2021.  
+2. Generate a **Division-level Sales Report** comparing 2020 vs 2021.  
+3. Determine the **Top 5 and Bottom 5 products** sold by quantity.  
+4. List **newly launched products** in 2021.  
+5. Identify the **Top 5 sales-generating countries** in 2021.  
+6. Build a **Customer Net Sales Performance** dashboard.  
+7. Compare **Market Performance vs. Target Achievement**.  
+8. Develop **Yearly and Quarterly P&L Reports**.  
+9. Analyze **Market-wise profitability and margins**.  
+10. Evaluate **Quarterly Gross Margin % (GM%)** across regions.
 
 ---
 
 ## 🧭 Why This Project Matters
 
-In modern organizations, financial, sales, and marketing data often reside in silos, limiting the ability to view overall business performance. Business Insights 360 solves this challenge by integrating all key business metrics into a single, interactive Power BI ecosystem.
+AtliQ Hardware operates in multiple global markets, offering a wide product portfolio.  
+To stay competitive, leadership requires:
 
-This project matters because it enables organizations to:
+- A **centralized view** of all key business metrics  
+- Insight into **profitable vs. declining products and regions**  
+- Strong **financial monitoring** to guide budgeting and planning  
+- Real-time dashboards to support **agile decision-making**  
 
-- **Gain a unified, 360-degree view** of their financial, sales, and marketing KPIs  
-- **Benchmark performance** against previous years, targets, or selected benchmarks  
-- **Identify top-performing products, customers, and regions** to focus investment and strategy  
-- **Spot declining areas early**, helping teams take corrective action before losses grow  
-- **Understand unit economics** such as Gross Margin %, COGS, and Net Profit %  
-- **Improve decision-making speed** with interactive dashboards and dynamic filters  
-- **Empower leadership teams** with real-time insight rather than static reports  
+This project supports business users by enabling:
 
-Ultimately, Business Insights 360 supports **data-driven strategy, improved profitability, and operational excellence** by providing actionable intelligence across the entire business.
+- Faster identification of performance gaps and opportunities  
+- Improved pricing and product mix strategies  
+- Better forecasting through seasonal and YOY insights  
+- Stronger understanding of market behavior and customer value  
+
+In short, this project enables **data-driven strategy, operational efficiency, and financial optimization**.
 
 ---
 
 ## 📁 Dataset Overview
 
 | Feature | Value |
-|---------|--------|
-| **Data Source** | Codebasics – Business Insights 360 Challenge Dataset |
-| **Number of Tables** | 7 relational tables (Finance, Sales, Marketing, Customer, Product, Market, Date) |
-| **Total Records** | 20,000+ combined rows across all datasets |
-| **Business Domains Covered** | Finance, Sales, Marketing, Customer Segments, Product Categories |
-| **Key Metrics Available** | Net Sales, Gross Margin, COGS, Net Profit, Expenses, Units Sold |
-| **Geographical Coverage** | NAM, LATAM, EU, APAC regions |
-| **Time Features** | Year, Quarter, Month, Benchmark (LY vs CY) |
-| **Data Quality** | Cleaned, transformed & standardized using Power Query |
+|--------|--------|
+| **Data Source** | Codebasics – AtliQ Hardware Sales & Finance Analytics Challenge |
+| **Total Records Analyzed** | ~50,000+ rows across multiple tables |
+| **Number of Tables** | 8 (Sales, Customers, Products, Markets, Finance, Dates, Division, Targets) |
+| **Time Period Covered** | 2019, 2020, 2021 |
+| **Geographical Coverage** | 40+ countries |
+| **Key Metrics Available** | Net Sales, COGS, GM%, Net Profit, Units Sold, Targets |
+| **Data Quality** | Cleaned, transformed, standardized using Power Query |
 
-The dataset is sourced from **Codebasics**, designed as part of the *Business Insights 360* case study.  
-It includes cross-functional business data from finance, sales, and marketing teams—allowing complete performance analysis using Power BI’s modeling, DAX, and visualization capabilities.
-
----
-
-## 📁 What This Project Includes
-
-## 1. Finance View
-
-Purpose : To analyze overall financial performance by tracking revenue, cost, and profitability metrics.
-
-**Key Insights**
-- __Net Sales $__: Indicates the total revenue after discounts and deductions.
-- __Gross Margin %__: Shows profitability after deducting the cost of goods sold (COGS).
-- __Net Profit %__: Reflects final profitability after accounting for all operational expenses.
-- __Benchark Comparison (BM)__: Highlights how actuals perform against a selected benchmark (e.g., LY - Last Year).
-- __Profit & Loss Statement__: Breaks down key financial components (sales, deductions, costs, and margins).
-- __Trend Analysis__: Visualizes net sales performance over time for easier pattern recognition.
-- __Top/Bottom Performers__: Identifies best and worst performing products or customers by net sales.
-
-## 2. Sales View
-
-Purpose: To evaluate sales performance across products, customers, and markets, and understand unit economics.
-
-**Key Insights**
-- __Product Performance__: Compares Net Sales (NS) and Gross Margin (GM) across product categories (Accessories, Desktop, Notebook, etc.).
-- __Customer Performance__: Displays top customers by revenue and profit margin (e.g., Amazon, Argos, BestBuy).
-- __Unit Economics__: Shows how total COGS and gross margin contribute to profitability.
-- __Performance Matrix__: Plots GM% vs. Net Sales to visualize customer profitability and market positioning.
-- __Filters__: Allow selection by Year, Quarter, Benchmark (vs LY), Market, Customer, and Segment for flexible analysis.
-
-## 3. Marketing View
-
-Purpose: To understand performance by product segment, region, and category, helping identify profitable areas and improvement opportunities.
-
-**Key Insights**
-- __Segment Performance__: Compares sales, gross margin, and net profit across categories like Notebook, Accessories, Peripherals, etc.
-- __Customer & Regional Breakdown__: Tracks performance across EU, LATAM, NAM, and APAC regions.
-- __Product Trends__: Highlights product categories with increased or decreased performance.
-- __Unit Economics__: Breaks down COGS vs. Gross Margin to visualize cost efficiency.
-- __Dynamic Filters__: Enable performance comparisons by Year, Quarter, Benchmark, Market, Customer, and Segment.
-- __Visual Analytics__: Combines bubble charts, donut charts, and bar visuals to simplify performance interpretation.
-
-**Key Features**
-- Dynamic filtering across multiple views (Finance, Sales, Marketing)
-- Benchmarking against previous years or targets
-- Interactive visuals for trend and variance analysis
-- Region-wise and segment-wise performance comparison
-- KPI summary cards with color-coded alerts (↑ improvement, ↓ decline)
+The dataset provides detailed records on sales transactions, financial statements, targets, customers, markets, and product divisions — ideal for BI modeling and performance benchmarking.
 
 ---
 
 ## 🛠 Tools & Technologies Used
 
-- **Power BI Desktop** – Data modeling, visualization, interactive dashboards  
-- **Power Query (M Language)** – Data cleaning, transformation, and ETL processes  
-- **DAX (Data Analysis Expressions)** – Measures, calculated columns, and advanced calculations  
-- **Excel / CSV / MySQL** – Source systems for financial, sales, and marketing data  
-- **Data Modeling Techniques** – Star schema, relationship building, fact & dimension tables  
-- **Power BI Service (optional)** – Report publishing and sharing  
-
+- **Power BI Desktop** – Dashboard & report creation  
+- **Power Query** – ETL (Extract, Transform, Load)  
+- **DAX (Data Analysis Expressions)** – Custom measures & calculations  
+- **Excel** – Initial data inspection and preprocessing  
+- **Data Modeling** – Star schema, relationships, fact & dimension tables  
 
 ---
 
-# Key Findings from the Analysis:
-Business Insights 360 enables data-driven decision-making by providing a single source of truth for financial, sales, and marketing metrics — helping organizations enhance profitability, optimize strategy, and improve overall business health.
+## 🔍 Key Findings from the Analysis
+
+### **1️⃣ Sales Analysis**
+
+#### 📌 Top 10 Products with Highest Sales Increase (2020 → 2021)
+- “AQ Electron 4 3600 Desktop Processor” and “AQ Pen Drive DRC” show the highest YOY growth.  
+- YOY growth for top products reached **200%–300%**.
+
+#### 📌 Division-Wise Sales Growth
+
+| Division | 2020 Revenue | 2021 Revenue | Growth |
+|----------|--------------|--------------|--------|
+| **PCs** | $40.1M | $165.8M | **313% ↑** |
+| **Accessories & Peripherals** | $105.2M | $338.4M | **321% ↑** |
+| **Networking & Storage** | $51.4M | $94.7M | **184% ↑** |
+
+#### 📌 Top 5 Sales Countries (2021)
+- **India leads with $161.3M**, followed by USA, South Korea, UK, and Canada.
+
+#### 📌 New Products Launched in 2021
+- **16 new products**, with “AQ Qwerty” performing exceptionally well.
 
 ---
+
+### **2️⃣ Finance Analysis**
+
+#### 📌 Customer Net Sales Performance
+- Revenue increased from **$87.5M (2019)** to **$598.9M (2021)**  
+- Total growth: **+304.5%**
+
+#### 📌 Yearly P&L Summary
+- Net Sales increased by **204.5%** over three years.  
+- Strong cost management maintained a healthy GM%.
+
+#### 📌 Market-Wise Profitability
+- **Japan & New Zealand** show the highest profit margins.  
+- **Germany** shows lower profitability → area for improvement.
+
+#### 📌 Quarterly GM% Trends
+- Region-wise GM% variations help identify seasonal and operational performance shifts.
+
+---
+
+## 📁 Summary of Key Insights
+
+- Sales surged by **304%** between 2019 and 2021.  
+- India is the highest contributor with **$161.3M** Net Sales in 2021.  
+- PC and Accessories divisions showed **over 300% revenue growth**.  
+- 16 new products launched in 2021 boosted product diversity.  
+- Profit margins vary significantly across countries.  
+- Several underperforming products require strategic attention.  
+- Cost control and strong margins indicate operational efficiency.
+
+---
+
+## 📌 Conclusion
+
+This Sales & Finance Analytics solution provides AtliQ Hardware with:
+
+- Clear visibility into revenue, cost, and profitability  
+- Identification of top-performing products, divisions, and countries  
+- Trend analysis for forecasting and planning  
+- Benchmark comparisons to measure progress  
+- Powerful BI dashboards for leadership decision-making  
+
+It demonstrates how **Power BI and DAX** can transform raw operational data into **strategic business intelligence**, enabling the company to optimize pricing, expand into profitable markets, and improve financial health.
+
+---
+
+## 📁 Overall Summary (Numeric Highlights)
+
+| Metric | Value |
+|--------|--------|
+| **Sales Growth (2019 → 2021)** | +304.5% |
+| **Division Growth Range** | 184% → 321% |
+| **New Products Added (2021)** | 16 |
+| **Top Country Revenue (2021)** | India – $161.3M |
+| **Highest Division Revenue (2021)** | Accessories – $338.4M |
+| **Top YOY Growth Product** | AQ Electron 4 3600 Processor |
+
+**Final Insight:**  
+AtliQ Hardware achieved **remarkable growth** driven by strong product performance, expansion in key markets, and effective cost management — reinforcing the value of data-driven decision-making.
+
+---
+
