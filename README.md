@@ -1,8 +1,23 @@
 # Business Insights 360 – Power BI Project
-**Overview**
 
-- Business Insights 360 is a comprehensive Power BI analytics solution designed to deliver end-to-end visibility into an organization’s financial, sales, and marketing performance.
-- It integrates multiple data sources to help decision-makers track KPIs, benchmark performance, and identify growth opportunities across regions, products, and customers.
+---
+
+## 🎯 What Is This Project About?
+
+Business Insights 360 is an end-to-end Power BI analytics solution designed to give organizations a **complete, unified view of their financial, sales, and marketing performance**.  
+The project integrates multiple datasets (Finance, Sales, Marketing, Customer, Product, Regional data) into a single analytical model that enables real-time KPI monitoring, benchmarking, and strategic decision-making.
+
+This project aims to:
+
+- Provide a **360-degree business overview** across revenue, cost, profitability, and market performance  
+- Break down insights across dedicated views — **Finance, Sales, and Marketing**  
+- Enable leadership teams to track trends, compare performance vs. benchmarks (like Last Year), and identify opportunities for growth  
+- Support data-driven decisions by highlighting top-performing regions, customers, and products  
+- Offer interactive, filter-driven dashboards for flexible, scenario-based analysis  
+
+At its core, **Business Insights 360 transforms raw financial and operational data into clear, actionable intelligence** — empowering decision-makers to improve profitability, optimize strategy, and drive sustainable business growth.
+
+## 📁 Project Objectives
 
 ## 1. Finance View
 
