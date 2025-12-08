@@ -152,7 +152,7 @@ It demonstrates how **Power BI and DAX** can transform raw operational data into
 
 ---
 
-## 📁 Overall Summary (Numeric Highlights)
+## 📁 Overall Summary 
 
 | Metric | Value |
 |--------|--------|
